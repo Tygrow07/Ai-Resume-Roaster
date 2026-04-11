@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+It is a ai reume Roaster that will roast your resume.💀
 
-# Run and deploy your AI Studio app
+I have vibe coded this in free time. Want to ue it wihtout adding it ap key use through this website: https://ai.studio/apps/24e34466-7748-4823-99a8-e06827f1436c?fullscreenApplet=true 
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/24e34466-7748-4823-99a8-e06827f1436c
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
